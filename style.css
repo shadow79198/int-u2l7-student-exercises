@@ -14,7 +14,7 @@
 
 body {
     background-color: #d93f3f;
-    color: #eb2626;
+    color: #000000;
 }
 
 
@@ -24,8 +24,8 @@ body {
 
 .title {
     text-align: center;
-    color: #eb2626;
-    border: #eb2626 solid 5px;
+    color: #000000;
+    border: #ffffff solid 5px;
     border-radius: 30px;
     font-family: 'Italianno', cursive;
     font-size: 90px;
